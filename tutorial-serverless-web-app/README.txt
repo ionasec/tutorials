@@ -73,3 +73,6 @@ aws apigateway create-deployment --region eu-central-1 \
 #update invokation of API gatway
 #https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-4/
 https://7uw5eb3qd3.execute-api.eu-central-1.amazonaws.com/prod
+
+#enable cloud watch loging 
+https://aws.amazon.com/premiumsupport/knowledge-center/api-gateway-cloudwatch-logs/
