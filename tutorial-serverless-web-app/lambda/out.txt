@@ -1,0 +1,1 @@
+{"statusCode":201,"body":"{\"RideId\":\"3lbfg7Jkyxw3PBmXwIvnjQ\",\"Unicorn\":{\"Name\":\"Rocinante\",\"Color\":\"Yellow\",\"Gender\":\"Female\"},\"UnicornName\":\"Rocinante\",\"Eta\":\"30 seconds\",\"Rider\":\"the_username\"}","headers":{"Access-Control-Allow-Origin":"*"}}
