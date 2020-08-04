@@ -1,0 +1,16 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "VisualEditor0",
+            "Effect": "Allow",
+            "Action": [
+                "dynamodb:DescribeTable",
+                "dynamodb:Query",
+                "dynamodb:Scan",
+                "dynamodb:PutItem"
+            ],
+            "Resource": "arn:aws:dynamodb:eu-central-1:773208840593:table/Rides"
+        }
+    ]
+}
