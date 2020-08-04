@@ -47,7 +47,7 @@ aws lambda create-function --function-name raz-WildRydesLambda \
 --role arn:aws:iam::773208840593:role/raz-lambda-WildRydesLambda
 
 #test lambda
-aws lambda invoke --function-name raz-WildRydesLambda --payload //~/environment/tutorials/tutorial-serverless-web-app/lambda/test-payload.json out.txt
+aws lambda invoke --function-name raz-WildRydesLambda --payload file://~/environment/tutorials/tutorial-serverless-web-app/lambda/test-payload.json out.txt
 
 #https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-4/
 #create api gatway

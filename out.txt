@@ -1,0 +1,1 @@
+{"statusCode":201,"body":"{\"RideId\":\"tNCLsPZW9wBSkQ5BCCGumg\",\"Unicorn\":{\"Name\":\"Shadowfax\",\"Color\":\"White\",\"Gender\":\"Male\"},\"UnicornName\":\"Shadowfax\",\"Eta\":\"30 seconds\",\"Rider\":\"the_username\"}","headers":{"Access-Control-Allow-Origin":"*"}}
