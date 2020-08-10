@@ -7,4 +7,7 @@ Associate slack app with lex
 https://docs.aws.amazon.com/lex/latest/dg/slack-bot-assoc-create-assoc.html
 
 Oauth
-https://docs.aws.amazon.com/lex/latest/dg/slack-bot-back-in-slack-console.html
+https://docs.aws.amazon.com/lex/latest/dg/slack-bot-back-in-slack-console.htm
+
+Test
+https://docs.aws.amazon.com/lex/latest/dg/slack-bot-test.html
