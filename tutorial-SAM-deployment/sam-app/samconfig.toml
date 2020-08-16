@@ -1,0 +1,10 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "raz-sam-stack"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-127a0yefuhpfg"
+s3_prefix = "raz-sam-stack"
+region = "eu-central-1"
+confirm_changeset = true
+capabilities = "CAPABILITY_IAM"
