@@ -1,0 +1,10 @@
+{
+    "SourceS3BucketParameter" : "raz-eu-central-1-tutorial",
+    "ImageProcessorSourceS3KeyParameter" : "src/lambda_imageprocessor.zip",
+    "FrameFetcherSourceS3KeyParameter" : "src/lambda_framefetcher.zip",
+    "FrameS3BucketNameParameter" : "raz-eu-central-1-tutorial-2",
+    "FrameFetcherApiResourcePathPart" : "enrichedframe",
+    "ApiGatewayRestApiNameParameter" : "VidAnalyzerRestApi",
+    "ApiGatewayStageNameParameter": "development",
+    "ApiGatewayUsagePlanNameParameter" : "development-plan"
+}
