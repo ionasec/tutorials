@@ -22,3 +22,7 @@ pynt stackstatus
 
 #build webui
 pynt webui
+
+pynt webuiserver # Starts lightweight HTTP Server on port 8080.
+
+pynt videocaptureip["http://192.168.0.2/video",20]
