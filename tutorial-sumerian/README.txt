@@ -19,3 +19,19 @@ Step 2: Add a Policy to the Created IAM Role
 To add an Amazon Polly policy to the IAM role associated with unauthenticated users
 
 Step 3: Create the HTML Page
+
+
+Creating a scene
+https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
+
+
+
+sudo yum -y install httpd
+
+sudo service httpd start  
+
+sudo mkdir /var/www/html/mount-point
+
+cd /var/www/html/mount-point 
+
+github clone https://github.com/ionasec/tutorials.git
